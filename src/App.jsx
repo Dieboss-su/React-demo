@@ -24,9 +24,7 @@ function App() {
           <GlowCardGrid positions={positions} cardContents={cardContents}/>
         </div>
       </div>
-
         <div className=" flex items-center justify-center">
-
           <DropdownMenu/>
         </div>
       </div>
